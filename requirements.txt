@@ -6,3 +6,5 @@ langchain-anthropic
 langchain-groq
 python-dotenv
 pydantic
+duckduckgo-search
+ddgs
